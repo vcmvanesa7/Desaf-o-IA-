@@ -52,9 +52,9 @@ Si hay dudas, se marca para revisión manual.
 
 ### **4. Comparativa entre Procesos**
 
-ASPECTO                              PROCESO              SOLUCIÓN IA
-
-Velocidad de respuesta               Lento                Alta, automática
+ASPECTO             |           PROCESO         |   SOLUCIÓN IA
+___________________________________________________________________________
+Velocidad de respuesta          Lento               Alta, automática
 
 
 
