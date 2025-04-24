@@ -52,13 +52,13 @@ Si hay dudas, se marca para revisión manual.
 
 ###**4. Comparativa entre Procesos**
 
-###ASPECTO                 |       PROCESO         |       SOLUCIÓN IA
--------------------------------------------------------------------------
-###Velocidad de respuesta  |        Lento          |     Alta, automática
--------------------------------------------------------------------------
 
-
-
+| Aspecto                    | Proceso Tradicional              | Solución con IA                         |
+|----------------------------|----------------------------------|-----------------------------------------|
+| Tiempo de clasificación    | Lento                            | Instantáneo                             |
+| Precisión                  | Variable, depende del humano     | Alta, con aprendizaje continuo          |
+| Costos                     | Altos (más personal)             | Bajos (menos intervención humana)       |
+| Escalabilidad              | Limitada                         | Alta, se adapta al crecimiento          |
 
 
 
