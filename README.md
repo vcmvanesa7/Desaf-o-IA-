@@ -6,6 +6,7 @@
 La clasificación de imágenes de productos en una tienda en línea, es una tarea que puede ser tediosa y lenta si se hace manualmente, pero que con IA se puede automatizar de forma eficiente y precisa.
 
 
+
 ### **2. Descripción del Proceso Tradicional**
 
 **Situación actual:**
@@ -18,6 +19,7 @@ En muchas tiendas en línea pequeñas o medianas, cuando se suben nuevas imágen
 - Hay errores humanos al clasificar.
 - Se necesita personal adicional en temporadas altas.
 - Es difícil mantener un orden si el catálogo crece rápido.
+  
 
 
 ### **3. Propuesta de Solución con IA**
@@ -45,6 +47,7 @@ Si hay dudas, se marca para revisión manual.
 - Reducción de errores en la clasificación.
 - Escalabilidad (ideal si el número de productos crece).
 - Mejora la experiencia de navegación del cliente (productos mejor organizados).
+  
 
 
 ### **4. Comparativa entre Procesos**
