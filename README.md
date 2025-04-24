@@ -38,14 +38,14 @@ Modelo de visión por computadora (Computer Vision) entrenado para detectar tipo
 
 Al subir una imagen, el sistema analiza automáticamente el contenido.
 El modelo identifica si es, por ejemplo, una camiseta, un pantalón o un zapato.
-Se asigna la categoría sin intervención humana.
+Se asigna la categoría sin intervención.
 Si hay dudas, se marca para revisión manual.
 
 **Beneficios esperados:**
 
-- Ahorro de tiempo y esfuerzo humano.
+- Ahorro de tiempo y esfuerzo.
 - Reducción de errores en la clasificación.
-- Escalabilidad (ideal si el número de productos crece).
+- Escalabilidad (ideal si el catálogo crece).
 - Mejora la experiencia de navegación del cliente (productos mejor organizados).
   
 
