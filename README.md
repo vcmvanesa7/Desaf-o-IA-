@@ -65,4 +65,4 @@ Si hay dudas, se marca para revisión manual.
 
 ### **5. Reflexión Personal**
 
-Este ejercicio me ayudó a entender cómo la IA puede transformar tareas comunes que muchas veces pasamos por alto. La clave no está en reemplazar a las personas, sino en ayudarlas a enfocarse en tareas más creativas y estratégicas haciendo un mach entre la IA y lo humanos, utilizándola a nuestro favor.
+Este ejercicio me ayudó a entender cómo la IA puede transformar tareas comunes que muchas veces pasamos por alto. La clave no está en reemplazar a las personas, sino en ayudarlas a enfocarse en tareas más creativas y estratégicas haciendo un mach entre la IA y lo humano, utilizándola a nuestro favor.
