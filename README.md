@@ -57,7 +57,7 @@ Si hay dudas, se marca para revisión manual.
 |----------------------------|----------------------------------|-----------------------------------------|
 | Tiempo de clasificación    | Lento                            | Instantáneo                             |
 | Precisión                  | Variable, depende del humano     | Alta, con aprendizaje continuo          |
-| Costos                     | Altos (más personal)             | Bajos (menos intervención humana)       |
+| Costos                     | Altos (más personal)             | Bajos (menos intervención)              |
 | Escalabilidad              | Limitada                         | Alta, se adapta al crecimiento          |
 
 
