@@ -1,12 +1,12 @@
 
 # Transformando un Proceso Tradicional
 
-##1. Introducción
+**## 1. Introducción**
 
 La clasificación de imágenes de productos en una tienda en línea, es una tarea que puede ser tediosa y lenta si se hace manualmente, pero que con IA se puede automatizar de forma eficiente y precisa.
 
 
-##2. Descripción del Proceso Tradicional
+## **2. Descripción del Proceso Tradicional**
 
 Situación actual:
 En muchas tiendas en línea pequeñas o medianas, cuando se suben nuevas imágenes de productos (ropa, zapatos, accesorios, etc.), una persona debe revisar cada foto y etiquetarla manualmente según la categoría del producto.
@@ -18,7 +18,7 @@ Se necesita personal adicional en temporadas altas.
 Es difícil mantener un orden si el catálogo crece rápido.
 
 
-##3. Propuesta de Solución con IA
+**## 3. Propuesta de Solución con IA**
 
 Objetivo de la solución:
 Automatizar la clasificación de productos por imagen, usando un modelo de IA que reconozca el tipo de prenda o accesorio y asigne automáticamente la categoría correspondiente.
@@ -40,7 +40,7 @@ Escalabilidad (ideal si el número de productos crece).
 Mejora la experiencia de navegación del cliente (productos mejor organizados).
 
 
-##4. Comparativa entre Procesos
+## 4. Comparativa entre Procesos
 
 ASPECTO                              PROCESO              SOLUCIÓN IA
 
