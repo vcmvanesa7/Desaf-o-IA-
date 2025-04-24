@@ -50,7 +50,7 @@ Si hay dudas, se marca para revisión manual.
   
 
 
-###**4. Comparativa entre Procesos**
+### **4. Comparativa entre Procesos**
 
 
 | Aspecto                    | Proceso Tradicional              | Solución con IA                         |
