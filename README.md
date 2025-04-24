@@ -50,12 +50,12 @@ Si hay dudas, se marca para revisión manual.
   
 
 
-### **4. Comparativa entre Procesos**
+##### **4. Comparativa entre Procesos**
 
 ASPECTO                 |       PROCESO         |       SOLUCIÓN IA
 -------------------------------------------------------------------------
 Velocidad de respuesta  |        Lento          |     Alta, automática
-
+-------------------------------------------------------------------------
 
 
 
