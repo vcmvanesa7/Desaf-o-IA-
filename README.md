@@ -15,10 +15,10 @@ En muchas tiendas en línea pequeñas o medianas, cuando se suben nuevas imágen
 
 **Problemas del método tradicional:**
 
-- Toma mucho tiempo revisar imagen por imagen.
-- Hay errores humanos al clasificar.
-- Se necesita personal adicional en temporadas altas.
-- Es difícil mantener un orden si el catálogo crece rápido.
+- Toma mucho tiempo revisar cada imágen.
+- Podemos cometer errores al etiquetarlas.
+- Se necesita más personal en temporadas altas.
+- Si el catálogo crece rápido, será difícil mantener el orden o incluso dejarlo desactualizado.
   
 
 
