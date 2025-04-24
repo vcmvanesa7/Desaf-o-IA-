@@ -23,6 +23,7 @@ En muchas tiendas en línea pequeñas o medianas, cuando se suben nuevas imágen
 ### **3. Propuesta de Solución con IA**
 
 **Objetivo de la solución:**
+
 Automatizar la clasificación de productos por imagen, usando un modelo de IA que reconozca el tipo de prenda o accesorio y asigne automáticamente la categoría correspondiente.
 
 
